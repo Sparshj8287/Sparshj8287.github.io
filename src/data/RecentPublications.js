@@ -34,6 +34,8 @@ export const RecentPublicationsArray = [
       "Mohammed Safi Ur Rahman Khan*, Priyam Mehta*, Ananth Sankar, Umashankar Kumaravelan, Sumanth Doddapaneni, Suriyaprasaad B, Varun Balan G, Sparsh Jain, Anoop Kunchukuttan, Pratyush Kumar, Raj Dabre, Mitesh M. Khapra",
     extrainfo:
       "The 62nd Annual Meeting of the Association for Computational Linguistics, Bangkok, Thailand",
+    awards:
+      "Outstanding Paper Award",
     link: {
       bib: "",
       pdf: "https://arxiv.org/abs/2403.06350/",
