@@ -35,7 +35,6 @@ function LatestNewsComponent() {
       <NewsCardsWrpr>
         {NewsArray.map((items, key) => {
           if (key < 5) {
-            console.log(visibleNewsCards.includes(key), "doom");
             return (
               <NewsCard
                 data={items}
