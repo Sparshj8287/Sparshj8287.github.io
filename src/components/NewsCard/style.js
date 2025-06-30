@@ -89,6 +89,11 @@ export const NewsDescription = styled.p`
   padding: 1rem;
   width: calc(100% - 15rem);
 
+  a {
+    text-decoration: none;
+    color: ${({ theme }) => theme.accent};
+  }
+
   @media (min-width: 1080px) and (max-width: 1440px) {
     font-size: 1rem;
   }

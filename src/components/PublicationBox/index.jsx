@@ -13,16 +13,36 @@ import { SpecialButton } from "../Buttons";
 import { CustomColors } from "../../data/RecentPublications.js";
 
 function PublicationBox({ data, index, isvisible, animationdelay }) {
+  // Helper function to highlight "Sparsh Jain"
+  const highlightSparshJain = (text) => {
+    if (!text) return null;
+    const parts = text.split(/(Sparsh Jain)/g);
+    return parts.map((part, idx) =>
+      part === "Sparsh Jain" ? (
+        <span key={idx} style={{ fontWeight: "bold", color: "#6f42c1" }}>
+          {part}
+        </span>
+      ) : (
+        part
+      )
+    );
+  };
+
   return (
     <PublicationBoxWrpr
       index={index}
       isvisible={isvisible}
       animationdelay={animationdelay}
     >
+      {console.log("PublicationBox data:", data?.contributors)}
       <PublicationsTextWrpr>
-        <PublicationHeading>{data?.heading}</PublicationHeading>
-        <PublicationContributors>{data?.contributors}</PublicationContributors>
-        <PublicationText>{data.extrainfo}</PublicationText>
+        <PublicationHeading>
+          {highlightSparshJain(data?.heading)}
+        </PublicationHeading>
+        <PublicationContributors>
+          {highlightSparshJain(data?.contributors)}
+        </PublicationContributors>
+        <PublicationText>{highlightSparshJain(data.extrainfo)}</PublicationText>
         <TagButtonWrpr>
           {Object.entries(data.link).map(
             ([key, value], index) =>
