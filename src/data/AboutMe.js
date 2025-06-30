@@ -1,0 +1,10 @@
+export const PrimaryText = "Hi, I'm Sparsh";
+
+export const SecondaryTextArray = [
+  "Research Associate at AI4Bharat.",
+  "Completed my bachelors from MAIT",
+  "Really Competent about AI/ML.",
+];
+
+export const Description =
+  'I am Sparsh (صفی), a second year PhD Student at the <a href="https://dsai.iitm.ac.in/" rel="external nofollow noopener" target="_blank">Wadhwani School of Data Science and Artificial Intelligence (DSAI)</a> @ <a href="https://www.iitm.ac.in/" rel="external nofollow noopener" target="_blank">IIT Madras</a> &amp; <a href="https://ai4bharat.iitm.ac.in/" rel="external nofollow noopener" target="_blank">AI4Bharat</a> Lab where I am advised by Prof. <a href="http://www.cse.iitm.ac.in/~miteshk/" rel="external nofollow noopener" target="_blank">Mitesh M. Khapra</a>. My current research focuses on Resources and Evaluation of Multilingual Large ‘X’ Language Models (where X = ‘ ‘ or ‘Vision’ or ‘Audio’). I am also currently a Research Fellow at <a href="https://www.sarvam.ai/" rel="external nofollow noopener" target="_blank">Sarvam</a>, helping in building Sovereign AI for India!Previously, I was an AI Resident at the <a href="https://ai4bharat.iitm.ac.in/" rel="external nofollow noopener" target="_blank">AI4Bharat</a> Lab at IIT Madras, where I was fortunate to be part of the <a href="https://github.com/AI4Bharat/IndicLLMSuite" rel="external nofollow noopener" target="_blank">IndicLLMSuite</a> (guided by Prof. <a href="http://www.cse.iitm.ac.in/~miteshk/" rel="external nofollow noopener" target="_blank">Mitesh M. Khapra</a>). I did my M.Tech in Computer Science and Engineering before that from <a href="https://www.iitm.ac.in/" rel="external nofollow noopener" target="_blank">IIT Madras</a> (again!!) where I got to work on “Narrow Domain Adaptation of Speech Recognition Systems” guided by Prof. <a href="https://in.linkedin.com/in/pratyush-kumar-8844a8a3" rel="external nofollow noopener" target="_blank">Pratyush Kumar</a> and (you guessed it!) Prof. <a href="http://www.cse.iitm.ac.in/~miteshk/" rel="external nofollow noopener" target="_blank">Mitesh M. Khapra</a>.';
