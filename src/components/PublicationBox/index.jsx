@@ -19,7 +19,7 @@ function PublicationBox({ data, index, isvisible, animationdelay }) {
     const parts = text.split(/(Sparsh Jain)/g);
     return parts.map((part, idx) =>
       part === "Sparsh Jain" ? (
-        <span key={idx} style={{ fontWeight: "bold", color: "#6f42c1" }}>
+        <span key={idx} style={{ fontWeight: "bold", color: "#a479f0" }}>
           {part}
         </span>
       ) : (
