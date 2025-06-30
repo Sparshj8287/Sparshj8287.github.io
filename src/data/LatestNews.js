@@ -1,42 +1,30 @@
 export const NewsArray = [
   {
-    date: "May 25, 2025",
-    Description: `4 papers accepted to ACL 2025 Alhamdulillah!! CIA, FERMAT, BhasaAnuvaad, and FairITales (preprint out soon). Vienna hope to see you soon Insha Allah.`,
+    date: "1st Jul 2025",
+    Description: `Excited to share our latest work! Our new preprint, “Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts,” is now available on <a href="https://arxiv.org/abs/2506.03793" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">arXiv</a>. Check it out and let us know your thoughts!`,
   },
   {
-    date: "Apr 13, 2025",
-    Description: `I’ll be in Singapore 🇸🇬 for ICLR 2025. Looking forward to making new connections!`,
+    date: "16th Jun 2025",
+    Description: `Thrilled to be selected as a student volunteer for <a href="https://2025.aclweb.org/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">ACL 2025</a> in Vienna, Austria 🇦🇹! Grateful for the opportunity and looking forward to connecting with everyone in the NLP community.`,
   },
   {
-    date: "Nov 14, 2024",
-    Description: `FBI wins 🏆 Outstanding paper too!! Alhamdulillah.`,
+    date: "25th May 2025",
+    Description: `The secret is out! After cooking for a while, our work “Bhasaanuvaad” has been accepted to the main conference at <a href="https://2025.aclweb.org/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">ACL 2025</a>. Can't wait to share the details soon!`,
   },
   {
-    date: "Nov 07, 2024",
-    Description: `	I’ll be in Miami 🇺🇸 for EMNLP 2024 to present FBI. Thank you Google for sponsoring this. Looking forward to connect with y’all!!`,
+    date: "14th Aug 2024",
+    Description: `Absolutely surreal! Our paper, <a href="https://arxiv.org/abs/2403.06350" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">IndicLLMSuite</a>, has received an <strong>Outstanding Paper Award</strong> 🏅 at <a href="https://2024.aclweb.org/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">ACL 2024</a>! Immensely proud of the team and grateful for this recognition from the community.`,
   },
   {
-    date: "Nov 07, 2024",
-    Description: `Finally something that was cooking for a while! Now people dont have to use translated MMLU because we release MILU.`,
+    date: "25th Jul 2024",
+    Description: `Heading to Bangkok 🇹🇭! I’ll be attending <a href="https://2024.aclweb.org/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">ACL 2024</a> to present our work on IndicLLMSuite. If you're there, let's connect and chat about multilingual AI!`,
   },
   {
-    date: "18th June 2025",
-    Description: `This month I launched my dev-focused YouTube channel where I document my creative process — from sketching ideas to deploying beautiful web interfaces. In my first vlog, I took viewers through the entire rebuild of my portfolio, discussed animation choices, dark mode logic, and why I chose certain visual metaphors. <a href="https://youtube.com/@sparshdev" target="_blank" rel="noopener noreferrer">Watch now</a>.`,
+    date: "1st Jul 2024",
+    Description: `Excited to start a new chapter! I have officially joined as a Research Associate at the incredible <a href="https://ai4bharat.iitm.ac.in/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">AI4Bharat Lab</a> @ <a href="https://www.iitm.ac.in/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">IIT Madras</a>. Looking forward to contributing to cutting-edge research.`,
   },
   {
-    date: "21st June 2025",
-    Description: `I joined <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">Vercel</a> as a Creative Developer Intern, a dream opportunity to work at the forefront of frontend innovation. I'm part of a team exploring experimental UI prototypes, performance optimization strategies, and contributions to the Next.js ecosystem. It's inspiring to collaborate with some of the minds who shape the modern web.`,
-  },
-  {
-    date: "25th June 2025",
-    Description: `I released "Nebula UI" — a modular design system powered by Tailwind CSS, designed for rapid prototyping and production-ready applications. It includes over 50 components, customizable themes, and built-in support for dark mode and accessibility. The system is open-sourced with MIT license and already adopted by several indie devs. <a href="https://tailwindcomponents.com/user/sparsh" target="_blank" rel="noopener noreferrer">Try it here</a>.`,
-  },
-  {
-    date: "28th June 2025",
-    Description: `I was thrilled to speak at <a href="https://devconf.in" target="_blank" rel="noopener noreferrer">DevConf India</a> 2025 on "Motion with Meaning: Animating the Web Beyond Aesthetics." My session covered the psychology of motion, accessibility considerations, and the power of combining declarative animations with utility-based CSS. Attendees appreciated the real-time demos and open Q&A that followed.`,
-  },
-  {
-    date: "30th June 2025",
-    Description: `I’m humbled to have been selected as the winner of the “Top Developer Portfolio” award at the 2025 IndieHackers Showcase. The panel appreciated the seamless blend of design and functionality, code structure, and creative animations. This recognition has fueled my motivation to keep experimenting with tech in playful, purposeful ways. <a href="https://indiehackers.com/showcase" target="_blank" rel="noopener noreferrer">See highlights</a>.`,
-  },
+    date: "16th May 2024",
+    Description: `Thrilled to announce that our paper, “IndicLLMSuite: A Blueprint for Creating Pre-training and Fine-Tuning Datasets for Indian Languages,” has been accepted to the <a href="https://2024.aclweb.org/" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">ACL 2024</a> main conference! You can read the preprint <a href="https://arxiv.org/abs/2403.06350" style="color: #6B46C1;" target="_blank" rel="noopener noreferrer">here</a>.`,
+  }
 ];

@@ -1,103 +1,57 @@
 export const RecentPublicationsArray = [
   {
-    place: "NAACL 2025",
-    heading: "MILU: A Multi-task Indic Language Understanding Benchmark",
+    place: "Preprint",
+    heading: "Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts",
     contributors:
-      "Sshubam Verma, Mohammed Safi Ur Rahman Khan, Vishwajeet Kumar, Rudra Murthy, and Jaydeep Sen",
+      "Sidharth Pulipaka, Sparsh Jain, Ashwin Sankar, Raj Dabre",
     extrainfo:
-      "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics, 2024",
-
+      "ArXiv",
     link: {
       bib: "",
-      pdf: "https://aclanthology.org/2025.naacl-long.507/",
-      code: "https://github.com/AI4Bharat/MILU",
-      data: "https://huggingface.co/datasets/ai4bharat/MILU",
+      pdf: "https://arxiv.org/abs/2506.03793",
+      code: "https://huggingface.co/ai4bharat/Cadence",
     },
   },
   {
     place: "ACL 2025",
-    heading: "Cross-Lingual Auto Evaluation for Assessing Multilingual LLMs",
+    heading: "Towards Building Large Scale Datasets and State-of-the-Art Automatic Speech Translation Systems for 14 Indian Languages",
     contributors:
-      "Sumanth Doddapaneni*, Mohammed Safi Ur Rahman Khan*, Dilip Venkatesh, Raj Dabre, Anoop Kunchukuttan, and Mitesh M. Khapra",
-    extrainfo: "arXiv preprint arXiv: 2410.13394, 2024",
-
+      "Ashwin Sankar*, Sparsh Jain*, Nikhil Narasimhan, Devilal Choudhary, Dhairya Suman, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Mitesh M. Khapra, Raj Dabre",
+    extrainfo:
+      "The 63rd Annual Meeting of the Association for Computational Linguistics Vienna, Austria",
     link: {
-      bib: "",
-      pdf: "https://arxiv.org/abs/2410.13394",
-      code: "https://github.com/AI4Bharat/CIA",
-      data: "https://huggingface.co/datasets/ai4bharat/FBI",
+      pdf: "https://arxiv.org/abs/2411.04699/",
+      code: "https://github.com/AI4Bharat/BhasaAnuvaad",
+      data: "https://huggingface.co/collections/ai4bharat/bhasaanuvaad-672b3790b6470eab68b1cb87",
+      model: "https://huggingface.co/ai4bharat/indic-seamless",
+      demo: "https://huggingface.co/spaces/ai4bharat/indic-seamless",
     },
   },
   {
-    place: "EMNLP",
-    heading:
-      "Finding Blind Spots in Evaluator LLMs with Interpretable Checklists",
+    place: "ACL 2024",
+    heading: "IndicLLMSuite: A Blueprint for Creating Pre-training and Fine-Tuning Datasets for Indian Languages",
     contributors:
-      "Sumanth Doddapaneni*, Mohammed Safi Ur Rahman Khan*, Sshubam Verma, and Mitesh M. Khapra",
+      "Mohammed Safi Ur Rahman Khan*, Priyam Mehta*, Ananth Sankar, Umashankar Kumaravelan, Sumanth Doddapaneni, Suriyaprasaad B, Varun Balan G, Sparsh Jain, Anoop Kunchukuttan, Pratyush Kumar, Raj Dabre, Mitesh M. Khapra",
     extrainfo:
-      "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024",
-    awards: "Outstanding Paper",
+      "The 62nd Annual Meeting of the Association for Computational Linguistics, Bangkok, Thailand",
     link: {
       bib: "",
-      pdf: "https://aclanthology.org/2024.emnlp-main.911/",
-      code: "https://github.com/AI4Bharat/FBI",
-      data: "https://huggingface.co/datasets/ai4bharat/FBI",
+      pdf: "https://arxiv.org/abs/2403.06350/",
+      code: "https://github.com/AI4Bharat/IndicLLMSuite",
+      data: "https://huggingface.co/collections/ai4bharat/indicllmsuite-65ee7d225c337fcfa0991707",
     },
   },
   {
-    place: "COLING 2025",
-    heading: "IndicNLP: Advancing NLP Research for Indian Languages",
+    place: "IEEE Access 2024",
+    heading: "DePondFi’23 Challenge on Real-time Pond Environment: Methods and Results",
     contributors:
-      "Mohammed Safi Ur Rahman Khan, Sshubam Verma, Raj Dabre, and Mitesh M. Khapra",
+      "A Sasithradevi, R Suganya, P Prakash, S Mohamed Mansoor Roomi, M Vijayalakshmi, P Kasthuri, J Persiya, L Brighty Ebenezer, Sparsh Jain, Sshubam Verma, S Balasubramanian, M Sai Subramaniam, T Sai Sriram, M Pranav Phanindra Sai, Chandan Raj, Amandeep Yadav, Ritik Payak, Paul Choudhury, Rohit Singh",
     extrainfo:
-      "Proceedings of the 2025 International Conference on Computational Linguistics, Dec 2025",
+      "IEEE Access",
     link: {
       bib: "",
-      pdf: "https://aclanthology.org/2025.coling-main.123/",
-      code: "https://github.com/AI4Bharat/IndicNLP",
-      data: "https://huggingface.co/datasets/ai4bharat/IndicNLP",
-    },
-  },
-  {
-    place: "IJCNLP 2025",
-    heading: "Leveraging Multilingual Transformers for Low-Resource NLP",
-    contributors:
-      "Sumanth Doddapaneni, Mohammed Safi Ur Rahman Khan, and Vishwajeet Kumar",
-    extrainfo:
-      "Proceedings of the 2025 International Joint Conference on Natural Language Processing, Jan 2025",
-    link: {
-      bib: "",
-      pdf: "https://aclanthology.org/2025.ijcnlp-main.456/",
-      code: "https://github.com/AI4Bharat/LowResourceNLP",
-      data: "https://huggingface.co/datasets/ai4bharat/LowResourceNLP",
-    },
-  },
-  {
-    place: "EACL 2025",
-    heading: "Evaluating Multilingual Models with Robust Benchmarks",
-    contributors:
-      "Sshubam Verma, Mohammed Safi Ur Rahman Khan, and Mitesh M. Khapra",
-    extrainfo:
-      "Proceedings of the 2025 European Chapter of the Association for Computational Linguistics, Mar 2025",
-    link: {
-      bib: "",
-      pdf: "https://aclanthology.org/2025.eacl-main.789/",
-      code: "https://github.com/AI4Bharat/RobustBenchmarks",
-      data: "https://huggingface.co/datasets/ai4bharat/RobustBenchmarks",
-    },
-  },
-  {
-    place: "LREC 2025",
-    heading: "Building Comprehensive Resources for Indic NLP",
-    contributors:
-      "Mohammed Safi Ur Rahman Khan, Sumanth Doddapaneni, and Rudra Murthy",
-    extrainfo:
-      "Proceedings of the 2025 Language Resources and Evaluation Conference, May 2025",
-    link: {
-      bib: "",
-      pdf: "https://aclanthology.org/2025.lrec-main.321/",
-      code: "https://github.com/AI4Bharat/IndicResources",
-      data: "https://huggingface.co/datasets/ai4bharat/IndicResources",
+      pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720772&tag=1",
+      code: "https://github.com/Sparshj8287/Detectron-Depondfi-Detection-of-pond-fish-2023-Winners",
     },
   },
 ];

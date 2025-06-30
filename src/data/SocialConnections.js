@@ -1,9 +1,9 @@
 export const SocialConnectionLinks = {
-  twitter: "https://twitter.com/sparshbhaiya",
-  linkedin: "https://www.linkedin.com/in/sparsh-bhaiya-1b0a4b1b2/",
-  github: "https://github.com/sparshbhaiya",
-  scholar: "https://scholar.google.com/citations?user=8b1a4b1b2&hl=en",
-  email: "mailto:sparshbhaiya@example.com",
+  twitter: "https://x.com/Sparshj8287",
+  linkedin: "https://www.linkedin.com/in/sparshj8287/",
+  github: "https://github.com/Sparshj8287",
+  scholar: "https://scholar.google.com/citations?user=X-Co3rYAAAAJ&hl=en",
+  email: "mailto:sjshiva8287@gmail.com",
 };
 
 export const SocialConnectionIconColors = ["#fae6ec", "#e9e5fb", "#daf2e9"];
