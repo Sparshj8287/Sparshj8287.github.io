@@ -1,4 +1,4 @@
-export const PrimaryText = "नमस्कार, I'm Sparsh";
+export const PrimaryText = "नमस्ते, I'm Sparsh";
 
 export const SecondaryTextArray = [
   "Research Associate at AI4Bharat.",
