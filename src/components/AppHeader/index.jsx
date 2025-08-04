@@ -28,7 +28,7 @@ function AppHeader() {
     {
       label: "CV",
       endpoint:
-        "https://drive.google.com/file/d/1Fnk4RBRE0oa5V7th1Lez7duckDJVpRTm/view",
+        "https://drive.google.com/file/d/1KQrBG2MtJLTlgJfLLe060MO1HXGXDncO/view",
     },
   ];
 
