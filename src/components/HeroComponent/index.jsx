@@ -18,9 +18,6 @@ import { SecondaryButton } from "../Buttons";
 import { useRouter } from "next/navigation";
 
 function HeroComponent({ scrollToSocial }) {
-  const handleGetInTouch = () => {
-    window.location.href = "mailto:sjshiva8287@gmail.com";
-  };
   const router = useRouter();
 
   return (
