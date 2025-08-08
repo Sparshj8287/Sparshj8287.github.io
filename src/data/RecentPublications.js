@@ -1,11 +1,11 @@
 export const RecentPublicationsArray = [
   {
-    place: "Preprint",
+    place: "MELT 2025",
     heading: "Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts",
     contributors:
       "Sidharth Pulipaka, Sparsh Jain, Ashwin Sankar, Raj Dabre",
     extrainfo:
-      "ArXiv",
+      "1st Workshop on Multilingual and Equitable Language Technologies (MELT) @ COLM 2025",
     link: {
       bib: "",
       pdf: "https://arxiv.org/abs/2506.03793",

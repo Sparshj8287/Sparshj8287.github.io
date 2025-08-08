@@ -1,5 +1,9 @@
 export const NewsArray = [
   {
+    date: "7th Aug 2025",
+    Description: `Our paper, “Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts,” has been accepted to the MELT Workshop at COLM 2025`,
+  },
+  {
     date: "1st Jul 2025",
     Description: `Our new preprint, “Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts,” is now available on <a href="https://arxiv.org/abs/2506.03793" target="_blank" rel="noopener noreferrer">arXiv</a>. Check it out and let us know your thoughts!`,
   },
